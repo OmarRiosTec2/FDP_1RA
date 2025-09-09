@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EMPLEO"/>
+        <attribute name="authors" value="OMARABIUD"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:57:46 p. m."/>
+        <attribute name="created" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOC0yNjswNTo0NDo0MyBwLiBtLjsyNjMy"/>
+        <attribute name="edited" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOC0yNjswNTo1Nzo0NiBwLiBtLjsxOzI3NDc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO: &quot;" newline="False"/>
+            <output expression="&quot;Programador&quot;" newline="True"/>
+            <output expression="&quot;SALARIO: &quot;" newline="False"/>
+            <output expression="&quot;$15,000 SEMANALES&quot;" newline="True"/>
+            <output expression="&quot;HORAS SEMANA: &quot;" newline="False"/>
+            <output expression="&quot;35 HORAS&quot;" newline="True"/>
+            <output expression="&quot;REQUIERE INGLES: &quot;" newline="False"/>
+            <output expression="&quot;SI&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

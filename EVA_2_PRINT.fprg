@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_2_PRINT"/>
+        <attribute name="authors" value="OMARABIUD"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:34:11 p. m."/>
+        <attribute name="created" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOC0yNjswNTowNTo0NCBwLiBtLjsyNjMw"/>
+        <attribute name="edited" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOC0yNjswNTozNDoxMSBwLiBtLjsxOzI3MzQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE:&quot;" newline="False"/>
+            <output expression="&quot;OMAR ABIUD&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL:&quot;" newline="False"/>
+            <output expression="&quot;25550281&quot;" newline="True"/>
+            <output expression="&quot;EDAD:&quot;" newline="False"/>
+            <output expression="21" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

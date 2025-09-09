@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_13_IF"/>
+        <attribute name="authors" value="OMARABIUD"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-05 05:28:12 p. m."/>
+        <attribute name="created" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOS0wNTswNToyMDo1NCBwLiBtLjsyNjI2"/>
+        <attribute name="edited" value="T01BUkFCSVVEO09NQVItUEM7MjAyNS0wOS0wNTswNToyODoxMiBwLiBtLjsxOzI3MzY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="califa" type="Real" array="False" size=""/>
+            <output expression="&quot;introduce la calificacion:&quot;" newline="True"/>
+            <input variable="califa"/>
+            <if expression="califa &gt;= 70">
+                <then>
+                    <output expression="&quot;A disney&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;azotes&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
